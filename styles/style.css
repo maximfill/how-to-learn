@@ -76,7 +76,7 @@ body {
   line-height:1.2;
   font-size: 18px;
   font-weight: normal;
-  color:#2f80ed
+  color:#2f80ed;
 }
 .two-columns__main-text {
   width: 80%;
@@ -233,28 +233,28 @@ row-gap: 80px;
 }
 .footer__columns {
   display: flex;
-  padding-top:60px ;
+  padding-top:60px;
   padding-bottom:40px;
   justify-content: space-between;
   width: 90%;
   
 }
 .footer__author{
-  margin: 18 18 px;
-  line-height:25 px;
-  font-size:18px;
+  margin: 18px 18px;
+  line-height: 25px;
+  font-size: 18px;
   font-weight:normal;
 }
 .footer__column-heading {
   
-  line-height:30 px;
-  font-size:18px;
-  font-weight:600;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
 }
 .footer__column-links {
-  line-height:30 px;
-  font-size:18px;
-  font-weight:normal;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
   margin-top: 20px;
   margin-bottom: 16px;
 
