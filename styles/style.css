@@ -248,6 +248,7 @@ row-gap: 80px;
   color: #FFF;
   margin: 0 auto;
   position: relative;
+  display: flex;
 }
 .footer__columns {
   display: flex;
@@ -256,7 +257,7 @@ row-gap: 80px;
   justify-content: space-between;
   width: 90%;
   margin: 0 auto;
-  height: 100%;
+  
   
 }
 .footer__author{
