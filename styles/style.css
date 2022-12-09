@@ -5,46 +5,6 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.section-title { 
-  width: 60%;
-  padding-top:100px;
-  padding-bottom:20px;
-  margin: 0 auto;
-  text-align: center;
-  line-height:1.15;
-  font-size: 60px;
-  font-weight:600;
-}
-.section-subtitle{
-  width: 60%;
-  padding-bottom: 60px;
-  margin: 0 auto;
-  text-align: center;
-  line-height:34px;
-  font-size: 24px;
-  font-weight:normal;
-
-}
-
 .table { 
   display: flex;
   width: 1100px;
@@ -121,18 +81,8 @@ body {
   height: 637px;
   z-index: -2;
 }
-.section-title__theme_dark {
-  margin-top: 90px;
-  width: 60%;
-  margin: 0 auto;
-  text-align:center;
-}
-.section-subtitle__theme_dark {
-  margin-top: 20px;
-  width: 60%;
-  margin: 0 auto;
-  text-align:center;
-}
+
+
 
 .table__cell_theme_dark {
   margin-bottom:0px;
