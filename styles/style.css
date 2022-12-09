@@ -2,13 +2,6 @@ body {
   font-family:'Helvetica Neue','Arial', sans-serif;
   margin: 0px;
 }
-
-
-
-
-
-
-
 .feynman__title {
   margin-top: 100px;
   width: 648px;
@@ -17,8 +10,8 @@ body {
   line-height:1.15;
   font-size: 120px;
   font-weight:600;
-
 }
+
 .feynman__subtitle {
   margin-top: 70px;
   text-align:center;
@@ -55,16 +48,8 @@ body {
   z-index: -2;
 }
 
+  
 
-
-.table__cell_theme_dark {
-  margin-bottom:0px;
-  width: 200px;
-
-}     
-.table_theme_dark {
-row-gap: 80px;
-}
 
 .kaufman__triangle {
   position: absolute;
