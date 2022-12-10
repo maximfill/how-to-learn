@@ -34,3 +34,14 @@
 @import url(./_theme/section-title__theme_dark.css);
 @import url(./_theme/table_theme_dark.css);
 @import url(./__span-accent/two-columns__span-accent.css);
+@import url(./__item/cards__item.css);
+@import url(./__subtitle/feynman__subtitle.css);
+@import url(./_content/footer__column_content_info.css);
+@import url(./__column/_content/footer__column_content_info.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__book-container/khan__book-container.css);
+@import url(./_place/logo_place_footer.css);
+@import url(./__logo/resources__logo.css);
+@import url(./__cell/_theme/table__cell_theme_dark.css);
+@import url(./__paragraph/two-columns__paragraph.css);
+@import url(./__iframes/video__iframes.css);
