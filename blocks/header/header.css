@@ -2,7 +2,7 @@
 @import url(./__main-illustration/header__main-illustration.css);
 @import url(./__square-pic/header__square-pic.css);
 @import url(./__subtitle/header__subtitle.css);
-@import url(./__title/header__title.css);
+
 .header { 
     max-height: 756px;
     min-height: 756px;

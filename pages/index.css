@@ -21,3 +21,16 @@
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/rotation/rotation.css);
+@import url(./__description/cards__description.css);
+@import url(./__title/feynman__title.css);
+@import url(./_content/footer__column_content_social.css);
+@import url(./__column/_content/footer__column_content_social.css);
+@import url(./__title/header__title.css);
+@import url(./__triangle/kaufman__triangle.css);
+@import url(./__author/khan__author.css);
+@import url(./_place/logo_place_header.css);
+@import url(./__logo-link/resources__logo-link.css);
+@import url(./_theme/section-subtitle__theme_dark.css);
+@import url(./_theme/section-title__theme_dark.css);
+@import url(./_theme/table_theme_dark.css);
+@import url(./__span-accent/two-columns__span-accent.css);
