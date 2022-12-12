@@ -1,6 +1,7 @@
-.section-subtitle__theme_dark {
+.section-subtitle_theme_dark {
     margin-top: 20px;
     width: 60%;
     margin: 0 auto;
     text-align:center;
+    color: #fff;
 }
